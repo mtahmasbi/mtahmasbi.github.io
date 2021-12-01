@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Journal
+
+- *M. Tahmasbi*, A. Shahrasbi and A. Gohari, "Critical Graphs in Index Coding," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 2, pp. 225-235, Feb. 2015.
+
+- *M. Tahmasbi* and M. R. Bloch, “First and Second Order Asymptotics in Covert Communication.” IEEE Transactions on Information Theory, vol. 65, no. 4, pp. 2190–2212, Apr. 2019. 
+
+- *M. Tahmasbi* and M. R. Bloch, “A framework for covert and secret key expansion over quantum channels.” Physical Review A, vol. 99, no. 5, p. 052329, May 2019
+
+- *M. Tahmasbi*, M. R. Bloch, "Covert Secret Key Generation with an Active Warden," accepted for publication in IEEE Transactions on Information Forensics and Security.
+
+- *M. Tahmasbi*, M. R. Bloch and A. Yener, "Learning adversary's actions for secret communication," accepted to IEEE Transactions on Information Theory.
+
+== Submitted
+
+- *M. Tahmasbi* and M. R. Bloch, “Covert and secret key expansion over quantum channels under collective attacks.” submitted to IEEE Transactions on Information Theory, Jan. 2019. 
+
+- I. A. Kadampot, *M. Tahmasbi*, and M. R. Bloch, “Multilevel-Coded Pulse-Position Modulation for Covert Communications over Binary-Input Discrete Memoryless Channels.” submitted to IEEE Transactions on Information Theory, Nov. 2018. 
+
+- *M. Tahmasbi*, A. Savard, and M. R. Bloch, “Covert Capacity of Non-Coherent Rayleigh-Fading Channels.” submitted to IEEE Transactions on Information Theory, Oct. 2018. 
+
+- *M. Tahmasbi*, M. R. Bloch, "Steganography Protocols for Quantum Channels," submitted to Journal on Selected Areas in Communications.
+
+== Conference proceedings
+
+- I. A. Kadampot, *M. Tahmasbi*, and M. R. Bloch, “Multilevel-Coded Pulse Position Modulation for Covert Communications,” in Proc. of IEEE International Symposium on Information Theory, Vail, CO, Jun. 2018, pp. 1864–1868. 
+
+- *M. Tahmasbi*, M. R. Bloch, and V. F. Tan, “Error exponents covert communications,” in Proc. of IEEE Information Theory Workshop, Kaohsiung, Taiwan, Nov. 2017, pp. 304–308. 
+
+- *M. Tahmasbi* and M. R. Bloch, “Covert secret key generation,” in Proc. of IEEE Conference on Communications and Network Security, Workshop on Physical-Layer Methods for Wireless Security, Las Vegas, NV, Oct. 2017, pp. 540–544. 
+
+- *M. Tahmasbi*, M. R. Bloch, and A. Yener, “Learning Adversary’s Actions for Secret Communication,” in Proc. of IEEE International Symposium on Information Theory, Aachen, Germany, Jun. 2017, pp. 2713–2717. 
+
+- K. S. K. Arumugam, I. A. Kadampot, *M. Tahmasbi*, S. Shah, M. Bloch, and S. Pokutta, “Modulation recognition using side information and hybrid learning,” in Proc. IEEE Int. Symp. Dynamic Spectrum Access Networks (DySPAN), Piscataway, NJ, Mar. 2017, pp. 1–2. 
+
+- *M. Tahmasbi* and M. R. Bloch, “Second Order Asymptotics for Degraded Wiretap Channels: How Good Are Existing Codes?,” in 54th Annual Allerton Conference on Communication, Control, and Computing, Monticello, IL, Sep. 2016, pp. 830–837. 
+
+- *M. Tahmasbi* and M. R. Bloch, “Second-Order Asymptotics of Covert Communications over Noisy Channels,” in Proc. of IEEE International Symposium on Information Theory, Barcelona, Spain, Jul. 2016, pp. 2224–2228. 
+
+- *M. Tahmasbi* and F. Fekri, "On the capacity achieving probability measures for molecular receivers," 2015 IEEE Information Theory Workshop - Fall (ITW), Jeju, 2015, pp. 109-113.
+
+- *M. Tahmasbi*, A. Shahrasbi and A. Gohari, "Critical graphs in index coding," 2014 IEEE International Symposium on Information Theory, Honolulu, HI, 2014, pp. 281-285.
+
+- *M. Tahmasbi*, M. Bloch, and A. Yener, “In-Band Sensing of the Adversary’s Channel for Secure Communication in Wireless Channels.” accepted to IEEE International Symposium on Information Theory, Mar. 2019. 
+
+- *M. Tahmasbi* and M. Bloch, “Steganography Protocols for Quantum Channels.” accepted to IEEE International Symposium on Information Theory, Mar. 2019. 
+
+- I. A. Kadampot, *M. Tahmasbi*, and M. R. Bloch, “Codes for Covert Communication over Additive White Gaussian Noise Channels.” accepted to IEEE International Symposium on Information Theory, Mar. 2019.
+
+- *M. Tahmasbi* and M. Bloch, "Covert Communication with Unknown Code at Warden," accepted to Annual Allerton Conference on Communication, Control, and Computing (Allerton). 

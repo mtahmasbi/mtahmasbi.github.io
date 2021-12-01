@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+=  Mehrdad Tahmasbi
+
+~~~
+{}{img_left}{mehrdad.jpg}{alt text}{400px}{200px}
+Mehrdad Tahmasbi
+
+PhD Candidate\n
+School of Electrical and Computer Engineering\n
+Georgia Institute of Technology\n
+Email: mtahmasbi3@gatech.edu
+
+[https://scholar.google.com/citations?user=eblRi2cAAAAJ&hl=en Google Scholar Profile]\n
+[https://www.linkedin.com/in/mehrdad-tahmasbi-131442180/x LinkedIn Profile]
+~~~
+
+== About Me
+
+My name is Mehrdad Tahmasbi. I am a fourth year graduate student at Georgia Tech under supervison of [http://bloch.ece.gatech.edu Dr. Matthieu Bloch]. My research interests broadly include applied probability theory and its applications in classical and quantum information theory, as well as security problems.
+
+== Research Interest
+- Quantum Information Science
+- Information Theory
+- Applied Probability
